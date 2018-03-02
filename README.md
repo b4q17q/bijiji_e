@@ -1,1 +1,2 @@
-" " " " " " " การจัดการบันทึก " ถูกออกแบบมาเป็นโปรแกรมที่ออกแบบมาสําหรับผู้หญิงและการใช้โปรแกรม โปรแกรมนี้จะใช้แผนภูมิที่น่ารักของวันนี้จะรอโอกาสการตั้งครรภ์ครั้งต่อไปวันที่ทางสรีรวิทยาที่แสดงออกมาอย่างเข้าใจได้ง่ายและสามารถใช้ในการจัดการและการบันทึกรอบทางสรีรวิทยา ผู้หญิงที่ชื่นชอบความสะดวกสบายในการทำงานให้บริการฟรีทั้งหมด
+It can help us to record and share the understanding and inspiration in life anytime and anywhere. Especially in situations where computers are not easy to use, these app are almost equal to our writing tools.
+A good use of the note class app can greatly improve the efficiency of writing, improve the speed of text output, and facilitate the classification and search of documents.
